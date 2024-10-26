@@ -1,0 +1,1 @@
+from .parser import process_resume_task

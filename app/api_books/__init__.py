@@ -1,0 +1,1 @@
+from .parser import extract_info_from_resume
